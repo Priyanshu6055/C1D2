@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 20px;
+    background-color: rgb(57, 222, 211);
+
+}
+
+.counter-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+    background-color: rgb(255, 111, 0);
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+    border-color: black;
+    border-radius: 10%;
+}
